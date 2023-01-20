@@ -1,0 +1,7 @@
+/**
+ * GoldFish
+ */
+public class GoldFish  extends Peixe{
+
+    
+}
